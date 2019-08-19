@@ -1,0 +1,4 @@
+node-modules/*
+back-end/node-modules/*/*
+.DS_Store
+back-end/.DS_Store

@@ -1,0 +1,15 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "PUBLIC_KEY=${PUBLIC_KEY} SECRET_KEY=${SECRET_KEY} nodemon server.js"
+  },
+  "author": "Ioan Ghisoi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
