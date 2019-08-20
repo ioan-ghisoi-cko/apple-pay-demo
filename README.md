@@ -1,5 +1,3 @@
-<img src="tutorial.gif" width="100%"/>
-
 # Back End
 
 There is a very basic node/express API that will handle all the API interaction with Checkout.com.

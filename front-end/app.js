@@ -29,8 +29,8 @@ var applePayUiController = (function () {
  *
  */
 var applePayController = (function (uiController) {
-  var BACKEND_URL_VALIDATE_SESSION = 'https://4c643753.ngrok.io/validateSession'
-  var BACKEND_URL_PAY = 'https://4c643753.ngrok.io/pay'
+  var BACKEND_URL_VALIDATE_SESSION = 'https://8c7ec229.ngrok.io/validateSession'
+  var BACKEND_URL_PAY = 'https://8c7ec229.ngrok.io/pay'
 
   // High level configuration options.
   var config = {
