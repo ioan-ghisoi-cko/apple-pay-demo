@@ -1,8 +1,4 @@
-# Front End
-You simply need to open the *index.html* file from the "front-end" folder in your HTTPS whitelisted domain.
-
->You also need to update the *app.js* file to have your API URLs (line 32 and 33)
-
+<img src="tutorial.gif" width="100%"/>
 
 # Back End
 
@@ -30,3 +26,9 @@ Now use ngrok to get a public HTTPS URL for this API
 ```ssh
 ngrok http 3000
 ```
+
+
+# Front End
+You simply need to open the *index.html* file from the "front-end" folder in your HTTPS whitelisted domain.
+
+>You also need to update the *app.js* file to have your API URLs (line 32 and 33)
